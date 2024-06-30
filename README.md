@@ -80,4 +80,7 @@ The number of eligible voters in consitituencies with low tunouts
 ![image](https://github.com/Ak1704/Election_result_analysis/assets/76145150/1bf957e1-efce-498f-8f34-85e92f9dcd1c)
 
 
-10.)
+10.)Number of consistuencies won by each party:
+
+![image](https://github.com/Ak1704/Election_result_analysis/assets/76145150/54fac228-214d-45fe-93ad-7ee5dce9af08)
+
