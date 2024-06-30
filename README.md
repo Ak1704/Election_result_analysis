@@ -52,13 +52,32 @@ Constituencies with narrow margins are highly competitive and critical for futur
 
 7.) Voter Turn_out analysis:
 Constituencies with high turnouts
+
 ![image](https://github.com/Ak1704/Election_result_analysis/assets/76145150/086c87d6-cf5a-4915-acf8-024107e752f2)
 
 Constituencies with low turnout
-![image](https://github.com/Ak1704/Election_result_analysis/assets/76145150/0cc13335-5298-444e-a210-8f53c4e44110)
-Turnout rate represents the constituencies political interest and engagement.
 
-8.)
 ![image](https://github.com/Ak1704/Election_result_analysis/assets/76145150/3983ba42-4637-4af9-9bc4-68fba1f3b438)
 
+Turnout rate represents the constituencies political interest and engagement.
 
+The number of eligible voters in consitituencies with high tunouts
+
+![image](https://github.com/Ak1704/Election_result_analysis/assets/76145150/0cc13335-5298-444e-a210-8f53c4e44110)
+
+The number of eligible voters in consitituencies with low tunouts
+
+![image](https://github.com/Ak1704/Election_result_analysis/assets/76145150/02adbebb-11a9-4dbe-9e8b-65cdf4e22e0e)
+
+8.)Total vote cast in each states:
+
+![image](https://github.com/Ak1704/Election_result_analysis/assets/76145150/cad190b5-2728-4e99-96c2-35a1763c358e)
+
+9.)The maximum and minimum turnout rate in each state:
+
+![image](https://github.com/Ak1704/Election_result_analysis/assets/76145150/cb89764d-7bff-4690-a4eb-5135128c1c4b)
+
+![image](https://github.com/Ak1704/Election_result_analysis/assets/76145150/1bf957e1-efce-498f-8f34-85e92f9dcd1c)
+
+
+10.)
